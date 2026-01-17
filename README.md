@@ -1,4 +1,4 @@
-# LEARN-HTML-
+# LEARNING-HTML
 Assignment Title
 HTML Basics and Semantic Elements Assignment
 
